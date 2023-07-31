@@ -3,6 +3,21 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  border-style: solid;
+}
+h2{
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 30px;
+}
+form label{
+  padding-bottom: 10px;
 }
 
 .logo {
